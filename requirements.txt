@@ -1,0 +1,13 @@
+aiopg==1.4.0
+aioredis==2.0.1
+async-timeout==4.0.2
+environs==9.5.0
+greenlet==2.0.2
+loguru==0.7.0
+marshmallow==3.19.0
+packaging==23.1
+psycopg2-binary==2.9.6
+python-dotenv==1.0.0
+simplejson==3.19.1
+SQLAlchemy==1.4.48
+typing_extensions==4.6.3
